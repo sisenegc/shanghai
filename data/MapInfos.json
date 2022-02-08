@@ -1,6 +1,11 @@
 [
 null,
+<<<<<<< Updated upstream
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":731,"scrollY":496},
 {"id":2,"expanded":true,"name":"Town 1","order":2,"parentId":0,"scrollX":731,"scrollY":496},
 {"id":3,"expanded":false,"name":"Town 1 Room 1","order":3,"parentId":2,"scrollX":832,"scrollY":640}
+=======
+{"id":1,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":686.5,"scrollY":496},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":686.5,"scrollY":496}
+>>>>>>> Stashed changes
 ]
